@@ -1,6 +1,7 @@
 +++
 title = "Destination: Education (in Portuguese)"
-date = 2016-07-01  # Schedule page publish date.
+date = 2016-07-01
+show_time = false
 draft = false
 
 # Abstract and optional shortened version.
