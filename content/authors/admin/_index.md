@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,22 @@ organizations:
 bio: My research interests include coding theory, quantum computation, high-dimensional expanders and complexity theory.
 
 interests:
-- Coding Theory
-- Quantum Computation
-- High-Dimensional Expanders
+- Coding theory
+- Quantum computation
+- High-dimensional expanders
+- Complexity theory
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science (ongoing)
     institution: University of Warwick
-    year: 2019
+    year:
   - course: Master's in Mathematics
     institution: Instituto de Matemática Pura e Aplicada (IMPA)
-    year: 2017
+    year: 2019
   - course: B.S. in Mechatronics Engineering
     institution: Universidade de São Paulo (USP)
-    year: 2009
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-I am is a PhD student in theoretical computer science at the University of Warwick, under the supervision of Tom Gur. My research interests lie broadly in the intersection of mathematics and computer science.
+I am a first-year PhD student in theoretical computer science at the University of Warwick, under the supervision of [Tom Gur](https://www.dcs.warwick.ac.uk/~tomgur/).

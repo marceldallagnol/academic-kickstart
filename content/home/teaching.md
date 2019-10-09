@@ -13,6 +13,11 @@ subtitle = ""
 weight = 30
 
 +++
-Apart from working as a teaching assistant for basic undergraduate math courses (analytic geometry and linear algebra), I have taught high school math and physics for over a year at Emancipa (a volunteer-run, free of cost course for underprivileged students aiming for college).
+I have worked as teaching assistant in undergraduate and master's level courses:
 
-After graduating, I worked for three years at Projeto Âncora, a school recognized by some surveys [among the most innovative in the world](http://innoveedu.org/en/ancora-project-school).
+* [Complexity of algorithms](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs301/) (2019)
+* [Algebra I](https://impa.br/en_US/ensino/programas-de-formacao/mestrado-academico/disciplinas-mestrado-academico/algebra-i/) (2019)
+* [Linear algebra](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0304) (2013)
+* [Analytic geometry](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300) (2013)
+
+Between 2014 and 2016, I was an educator at Projeto Âncora, an elementary school that implemented a revolutionary pedagogical approach at the time and was widely recognized as [a reference in innovative education in Brazil](http://innoveedu.org/en/ancora-project-school).

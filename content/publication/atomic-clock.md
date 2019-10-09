@@ -1,7 +1,7 @@
 +++
 title = "Temperature Monitoring System for an Atomic Clock (in Portuguese)"
 date = 2011-10-01
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Varela Magalhães"]
