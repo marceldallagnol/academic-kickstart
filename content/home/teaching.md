@@ -15,6 +15,8 @@ weight = 30
 +++
 I have worked as teaching assistant in undergraduate and master's level courses:
 
+* [Quantum computing](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs419/) (2020)
+* [Logic and verification](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs262/) (2020)
 * [Complexity of algorithms](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs301/) (2019)
 * [Algebra I](https://impa.br/en_US/ensino/programas-de-formacao/mestrado-academico/disciplinas-mestrado-academico/algebra-i/) (2019)
 * [Linear algebra](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0304) (2013)

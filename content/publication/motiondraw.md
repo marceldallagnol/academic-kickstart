@@ -15,14 +15,14 @@ authors = ["Emily Grenader", "Troels E. Hansen", "Fernando da Silva Nos", "Danil
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = []
+publication_types = [1]
 
 # Publication name and optional abbreviated version.
 publication = "CHI 2013"
-publication_short = "CHI"
+publication_short = "CHI 2013"
 
 # Abstract and optional shortened version.
-abstract = "Contemporary staged performances frequently utilize advanced lighting and projection techniques.  The design and creation of these stage effects are rarely accessible to actual performers and must be designed by professional lighting   designers   or   highly-paid  programmers. With MotionDraw we want to create an affordable system that is easily controlled and manipulated by performers.  With intuitive gestures, non-specialized users can control the MotionDraw visual library and interact with the captured visual record of their own movements.  Possible uses of our system grew out of research with dancers and performers, and the current technical implementation sets a framework for including additional visual libraries and capabilities."
+abstract = "Contemporary staged performances frequently utilize advanced lighting and projection techniques. The design and creation of these stage effects are rarely accessible to actual performers and must be designed by professional lighting designers or highly-paid programmers. With MotionDraw we want to create an affordable system that is easily controlled and manipulated by performers. With intuitive gestures, non-specialized users can control the MotionDraw visual library and interact with the captured visual record of their own movements. Possible uses of our system grew out of research with dancers and performers, and the current technical implementation sets a framework for including additional visual libraries and capabilities."
 
 # Featured image thumbnail (optional)
 image_preview = ""

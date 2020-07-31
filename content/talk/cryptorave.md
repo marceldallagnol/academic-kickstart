@@ -10,7 +10,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "CryptoRave 2018"
-event_url = "https://cryptorave.org/en"
+event_url = ""
 
 # Location of event.
 location = "São Paulo, Brazil"

@@ -1,7 +1,7 @@
 +++
 title = "Made in Brazil"
 date = 2011-07-01
-draft = false
+draft = true
 show_time = false
 
 # Abstract and optional shortened version.

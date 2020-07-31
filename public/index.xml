@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel&#39;s website</title>
+    <link>http://impa.br/~msagnol/</link>
+      <atom:link href="http://impa.br/~msagnol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcel&#39;s website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 16:50:00 +0100</lastBuildDate>
+    <image>
+      <url>http://impa.br/~msagnol/img/icon-192.png</url>
+      <title>Marcel&#39;s website</title>
+      <link>http://impa.br/~msagnol/</link>
+    </image>
+    
+    <item>
+      <title>A structural theorem for local algorithms with applications to coding, testing and delegation</title>
+      <link>http://impa.br/~msagnol/talk/daisies-wola/</link>
+      <pubDate>Mon, 20 Jul 2020 16:50:00 +0100</pubDate>
+      <guid>http://impa.br/~msagnol/talk/daisies-wola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structural Theorem for Local Algorithms with Applications to Coding, Testing, and Delegation</title>
+      <link>http://impa.br/~msagnol/publication/daisy2/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0100</pubDate>
+      <guid>http://impa.br/~msagnol/publication/daisy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunflowers, daisies and local codes</title>
+      <link>http://impa.br/~msagnol/talk/daisies-wpccs/</link>
+      <pubDate>Mon, 09 Dec 2019 11:50:00 +0000</pubDate>
+      <guid>http://impa.br/~msagnol/talk/daisies-wpccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunflowers, daisies and local codes</title>
+      <link>http://impa.br/~msagnol/talk/daisies-birkbeck/</link>
+      <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>http://impa.br/~msagnol/talk/daisies-birkbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mathematical beauty of cryptography (in Portuguese)</title>
+      <link>http://impa.br/~msagnol/talk/cryptorave/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0100</pubDate>
+      <guid>http://impa.br/~msagnol/talk/cryptorave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MotionDraw: a Tool for Enhancing Art and Performance Using Kinect</title>
+      <link>http://impa.br/~msagnol/publication/motiondraw/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0100</pubDate>
+      <guid>http://impa.br/~msagnol/publication/motiondraw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
